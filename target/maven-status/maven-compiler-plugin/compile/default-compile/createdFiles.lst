@@ -1,9 +1,0 @@
-com/tark/query/builder/autoconfigure/TarkQBuilderSqlProperties.class
-META-INF/spring-configuration-metadata.json
-com/tark/query/builder/sql/TarkQBuilderDialect.class
-com/tark/query/builder/mongo/TarkQBuilderMongo$LookupStage.class
-com/tark/query/builder/mongo/TarkQBuilderMongo.class
-META-INF/spring-autoconfigure-metadata.properties
-com/tark/query/builder/sql/TarkQBuilderFactory.class
-com/tark/query/builder/autoconfigure/TarkQBuilderSqlAutoConfiguration.class
-com/tark/query/builder/sql/TarkQBuilder.class

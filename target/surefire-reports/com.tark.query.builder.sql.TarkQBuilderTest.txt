@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.tark.query.builder.sql.TarkQBuilderTest
--------------------------------------------------------------------------------
-Tests run: 36, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.355 s -- in com.tark.query.builder.sql.TarkQBuilderTest
