@@ -1,15 +1,15 @@
 *.log
 .vscode/
 
-bass/target
-bass/logs
-bass/${sys:catalina.base}
-bass/.settings
-bass/.project
-bass/.classpath
-bass/.factorypath
-bass/deployment
-bass/scripts/code/*.class
+target
+logs
+${sys:catalina.base}
+.settings
+.project
+.classpath
+.factorypath
+deployment
+scripts/code/*.class
 
 # ignore .env
 **/*.env
