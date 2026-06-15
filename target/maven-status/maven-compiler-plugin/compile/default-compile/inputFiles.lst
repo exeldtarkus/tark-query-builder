@@ -1,0 +1,6 @@
+/home/exel_tarkus/ExelFiles/tark-query-builder/src/main/java/com/tark/query/builder/autoconfigure/TarkQBuilderSqlAutoConfiguration.java
+/home/exel_tarkus/ExelFiles/tark-query-builder/src/main/java/com/tark/query/builder/autoconfigure/TarkQBuilderSqlProperties.java
+/home/exel_tarkus/ExelFiles/tark-query-builder/src/main/java/com/tark/query/builder/mongo/TarkQBuilderMongo.java
+/home/exel_tarkus/ExelFiles/tark-query-builder/src/main/java/com/tark/query/builder/sql/TarkQBuilder.java
+/home/exel_tarkus/ExelFiles/tark-query-builder/src/main/java/com/tark/query/builder/sql/TarkQBuilderDialect.java
+/home/exel_tarkus/ExelFiles/tark-query-builder/src/main/java/com/tark/query/builder/sql/TarkQBuilderFactory.java

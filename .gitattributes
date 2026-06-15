@@ -1,0 +1,7 @@
+# Menangani line endings secara otomatis
+* text=auto
+
+# Pastikan file java/xml selalu menggunakan LF saat di-commit
+*.java text
+*.xml text
+*.classpath text

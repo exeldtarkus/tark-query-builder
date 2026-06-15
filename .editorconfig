@@ -1,0 +1,30 @@
+# http://editorconfig.org
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 4
+insert_final_newline = true
+trim_trailing_whitespace = true
+end_of_line = lf
+
+[*.java]
+# Aturan khusus Java
+indent_size = 4
+max_line_length = 120
+
+[*.{js,jsx,ts,tsx}]
+# Aturan untuk TypeScript/React (sesuai snippet yang kita buat sebelumnya)
+indent_size = 2
+indent_style = space
+
+[*.{json,xml,yml,yaml}]
+indent_size = 2
+indent_style = space
+
+[Jenkinsfile]
+indent_size = 4
+
+[*.md]
+trim_trailing_whitespace = false

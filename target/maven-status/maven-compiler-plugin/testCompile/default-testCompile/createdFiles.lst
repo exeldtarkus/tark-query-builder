@@ -1,0 +1,6 @@
+com/tark/query/builder/mongo/TarkQBuilderMongoTest.class
+com/tark/query/builder/autoconfigure/TarkQBuilderAutoConfigurationTest$CustomTarkQBuilderFactoryConfig.class
+com/tark/query/builder/sql/UserParamsDto.class
+com/tark/query/builder/autoconfigure/TarkQBuilderAutoConfigurationTest.class
+com/tark/query/builder/sql/TarkQBuilderTest.class
+com/tark/query/builder/sql/UserModel.class
